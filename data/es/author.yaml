@@ -12,17 +12,16 @@ image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
+  email: "aldamichelle.204@gmail.com"
+  phone: "+52 7009 6357"
   linkedin:
     icon: linkedin
     url: "link de linkedin"
     text: "Texto"
  
- 
 # Descripción de ti
 summary:
-  - Soy una Ingeniera en Tecnolgías computacionales.
+  - Soy una ingeniera en Tecnolgías computacionales.
   - Soy un ...
   - Soy un ...
   - Soy un ...
